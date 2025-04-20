@@ -1,5 +1,5 @@
-![Output](images/1.png)
+![Output](Images/1.png)
 -----------------
-![Output](images/2.png)
+![Output](Images/2.png)
 -----------------
-![Output](images/3.png)
+![Output](Images/3.png)
